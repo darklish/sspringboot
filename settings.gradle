@@ -1,0 +1,8 @@
+rootProject.name = 'sspringboot'
+include 'bootapp'
+include 'bootweb'
+include 'spring-boot'
+include 'spring-context'
+include 'spring-beans'
+include 'spring-boot-autoconfigure'
+

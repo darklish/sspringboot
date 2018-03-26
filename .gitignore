@@ -1,0 +1,10 @@
+
+/gradlew
+/gradlew.bat
+/gradle/
+/.gradle/
+/tcpproxy/build/
+/netty-core/build/
+/.idea/
+/bootapp/build/
+/spring-boot/build/
