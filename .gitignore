@@ -9,3 +9,6 @@
 /spring-boot/build/
 /build/
 **/build/**
+**/out/
+/bootweb/build/
+**/build/
